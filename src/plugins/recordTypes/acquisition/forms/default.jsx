@@ -37,16 +37,42 @@ const template = (configContext) => {
             <Field name="acquisitionSources">
               <Field name="acquisitionSource" />
             </Field>
-
-            <Field name="creditLine" />
           </Col>
 
           <Col>
-            <Field name="acquisitionReason" />
-            <Field name="acquisitionNote" />
-            <Field name="acquisitionProvisos" />
+            <Panel name="priceInformation">
+              <InputTable name="groupPurchasePrice">
+                <Field name="groupPurchasePriceCurrency" />
+                <Field name="groupPurchasePriceValue" />
+              </InputTable>
+
+              <InputTable name="objectOfferPrice">
+                <Field name="objectOfferPriceCurrency" />
+                <Field name="objectOfferPriceValue" />
+              </InputTable>
+
+              <InputTable name="objectPurchaseOfferPrice">
+                <Field name="objectPurchaseOfferPriceCurrency" />
+                <Field name="objectPurchaseOfferPriceValue" />
+              </InputTable>
+
+              <InputTable name="objectPurchasePrice">
+                <Field name="objectPurchasePriceCurrency" />
+                <Field name="objectPurchasePriceValue" />
+              </InputTable>
+
+              <InputTable name="originalObjectPurchasePrice">
+                <Field name="originalObjectPurchasePriceCurrency" />
+                <Field name="originalObjectPurchasePriceValue" />
+              </InputTable>
+            </Panel>
           </Col>
         </Cols>
+
+        <Field name="creditLine" />
+        <Field name="acquisitionReason" />
+        <Field name="acquisitionNote" />
+        <Field name="acquisitionProvisos" />
       </Panel>
 
       <Panel name="objectCollectionInformation" collapsible collapsed>
