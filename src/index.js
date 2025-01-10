@@ -16,6 +16,30 @@ export default () => ({
   showTermListStateIcon: true,
   tenantId: '2000',
   termDeprecationEnabled: true,
+  // normally this is done in each recordType config but with so many it's a little cleaner here
+  recordTypes: {
+    consultation: {
+      disabled: true,
+    },
+    dutyofcare: {
+      disabled: true,
+    },
+    nagprainventory: {
+      disabled: true,
+    },
+    repatriationrequest: {
+      disabled: true,
+    },
+    summarydocumentation: {
+      disabled: true,
+    },
+    heldintrust: {
+      disabled: true,
+    },
+    restrictedmedia: {
+      disabled: true,
+    },
+  },
   pluginInfo: {
     cspaceUIPluginProfileMaterials: {
       messages: defineMessages({
