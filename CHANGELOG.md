@@ -1,5 +1,9 @@
 # Change Log
 
+## v4.0.1
+
+- Remove non-indexed material fields from the public browser template
+
 ## v4.0.0
 
 v4.0.0 adds support for CollectionSpace 8.0, and requires cspace-ui version 9.
