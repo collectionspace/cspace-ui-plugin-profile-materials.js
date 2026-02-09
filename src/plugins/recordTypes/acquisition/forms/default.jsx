@@ -70,6 +70,9 @@ const template = (configContext) => {
         </Cols>
 
         <Field name="creditLine" />
+
+        <Field name="acquisitionDescription" />
+
         <Field name="acquisitionReason" />
         <Field name="acquisitionNote" />
         <Field name="acquisitionProvisos" />
