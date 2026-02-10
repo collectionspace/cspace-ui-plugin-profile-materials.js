@@ -1,5 +1,13 @@
 # Change Log
 
+## v4.0.2
+
+v4.0.2 adds support for CollectionSpace 8.3, and requires cspace-ui version 10.2.0
+
+### Changes
+
+- Added the Acquisition description free text field (`acquisitionDescription`) to the record editor for Acquisitions.
+
 ## v4.0.1
 
 - Remove non-indexed material fields from the public browser template
