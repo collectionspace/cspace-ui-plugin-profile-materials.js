@@ -1,8 +1,8 @@
 # Change Log
 
-## v4.0.2
+## v4.1.0
 
-v4.0.2 adds support for CollectionSpace 8.3, and requires cspace-ui version 10.2.0
+v4.1.0 adds support for CollectionSpace 8.3, and requires cspace-ui version 10.2.0
 
 ### Changes
 
