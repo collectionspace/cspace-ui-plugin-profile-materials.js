@@ -14,6 +14,5 @@ export default (configContext) => {
         return material ? <p>{material}</p> : null;
       },
     },
-
   };
 };
