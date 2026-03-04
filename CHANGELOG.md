@@ -1,5 +1,11 @@
 # Change Log
 
+## v4.1.1
+
+### Changes
+
+- Add configuration for the detail list and grid views for CollectionObjects in order to include the `material` field`.
+
 ## v4.1.0
 
 v4.1.0 adds support for CollectionSpace 8.3, and requires cspace-ui version 10.2.0
