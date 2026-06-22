@@ -1,5 +1,9 @@
 # Change Log
 
+## v4.2.0
+
+- Add `homeLocationGroupList` to the `default` template.
+
 ## v4.1.1
 
 ### Changes
