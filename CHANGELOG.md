@@ -1,5 +1,11 @@
 # Change Log
 
+## v4.2.0
+
+### Changes
+
+- On the record editor for Acquisitions, the Price Information fields are now displayed in a collapsible panel, collapsed by default.
+
 ## v4.1.1
 
 ### Changes
