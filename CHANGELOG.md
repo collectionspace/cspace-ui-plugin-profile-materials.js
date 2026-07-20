@@ -1,5 +1,11 @@
 # Change Log
 
+## v4.2.0
+
+### Changes
+
+- Added the Alternative Identifier group of fields (`alternativeIdentifierGroupList/alternativeIdentifierGroup`) to the record editor for Acquisitions.
+
 ## v4.1.1
 
 ### Changes
