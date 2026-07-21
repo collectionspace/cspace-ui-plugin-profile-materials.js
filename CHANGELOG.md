@@ -5,6 +5,7 @@
 ### Changes
 
 - Added the Alternative Identifier group of fields (`alternativeIdentifierGroupList/alternativeIdentifierGroup`) to the record editor for Acquisitions.
+- Added `homeLocationGroupList` to the `default` template for Collections Objects.
 
 ## v4.1.1
 
