@@ -1,6 +1,6 @@
 {
   "name": "cspace-ui-plugin-profile-materials",
-  "version": "4.1.1",
+  "version": "5.0.0-rc.0",
   "description": "Materials Authority profile plugin for the CollectionSpace UI",
   "author": "Ray Lee <ray.lee@lyrasis.org>",
   "license": "ECL-2.0",
